@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ameenudeen
 - 👀 I’m interested in Deep learning for speech processing
 - 🌱 I’m currently learning PhD at LEAP lab,IISc Bangalore
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on advanced deep learning models for speech
 - 📫 How to reach me :ameenudeenp@iisc.ac.in
 - 😄 Pronouns: he/him
 
